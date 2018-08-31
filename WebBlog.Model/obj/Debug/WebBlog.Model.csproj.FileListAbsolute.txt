@@ -1,0 +1,5 @@
+D:\03. My Project\WebBlog\WebBlog.Model\bin\Debug\WebBlog.Model.dll
+D:\03. My Project\WebBlog\WebBlog.Model\bin\Debug\WebBlog.Model.pdb
+D:\03. My Project\WebBlog\WebBlog.Model\obj\Debug\WebBlog.Model.csprojResolveAssemblyReference.cache
+D:\03. My Project\WebBlog\WebBlog.Model\obj\Debug\WebBlog.Model.dll
+D:\03. My Project\WebBlog\WebBlog.Model\obj\Debug\WebBlog.Model.pdb
